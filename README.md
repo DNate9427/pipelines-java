@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/dnation9427/Tour%20of%20Heroes/_apis/build/status/DNate9427.pipelines-java?branchName=master)](https://dev.azure.com/dnation9427/Tour%20of%20Heroes/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
